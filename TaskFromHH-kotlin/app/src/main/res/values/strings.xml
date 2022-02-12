@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hxh_test</string>
+    <string name="enterN">How many arrays to show (n) ?</string>
+    <string name="see_result">see the result</string>
+</resources>
