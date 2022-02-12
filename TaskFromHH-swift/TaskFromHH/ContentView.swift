@@ -20,7 +20,7 @@ struct ContentView: View {
 
     var body: some View {
         VStack {
-            TextField("Please Enter N", text: $cost)
+            TextField("How many arrays to show (n) ?", text: $cost)
                 .keyboardType(.decimalPad)
                 .padding(10)
                 .overlay(
